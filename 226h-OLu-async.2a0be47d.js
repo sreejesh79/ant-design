@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["226h-OLu"],{"226h-OLu":function(e,l,n){"use strict";n.d(l,"__esModule",{value:!0}),n.d(l,"demos",{enumerable:!0,get:function(){return u;}}),n("MxDi4cQ8");let u={};}}]);
+//# sourceMappingURL=226h-OLu-async.2a0be47d.js.map

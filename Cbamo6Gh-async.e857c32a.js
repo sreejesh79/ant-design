@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["Cbamo6Gh"],{Cbamo6Gh:function(e,a,l){"use strict";l.d(a,"__esModule",{value:!0}),l.d(a,"default",{enumerable:!0,get:function(){return o;}});var n=l("zFz0_bw4");l("Tywyf1ja");var u=l("HL79G8C-"),o=()=>(0,n.jsx)(u.Input,{placeholder:"Basic usage"});}}]);
+//# sourceMappingURL=Cbamo6Gh-async.e857c32a.js.map

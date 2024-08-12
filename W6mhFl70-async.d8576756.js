@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["W6mhFl70"],{W6mhFl70:function(e,l,n){"use strict";n.d(l,"__esModule",{value:!0}),n.d(l,"default",{enumerable:!0,get:function(){return a;}});var a=n("WBhzIWQh").Sandpack;}}]);
+//# sourceMappingURL=W6mhFl70-async.d8576756.js.map

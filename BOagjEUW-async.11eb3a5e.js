@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["BOagjEUW"],{BOagjEUW:function(e,l,n){"use strict";n.d(l,"__esModule",{value:!0}),n.d(l,"demos",{enumerable:!0,get:function(){return a;}}),n("_9p4m9SV");let a={};}}]);
+//# sourceMappingURL=BOagjEUW-async.11eb3a5e.js.map

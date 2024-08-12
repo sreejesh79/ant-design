@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["XqKl6o0B"],{XqKl6o0B:function(e,l,n){"use strict";n.d(l,"__esModule",{value:!0}),n.d(l,"demos",{enumerable:!0,get:function(){return o;}}),n("GHzzr-jd");let o={};}}]);
+//# sourceMappingURL=XqKl6o0B-async.064b966d.js.map

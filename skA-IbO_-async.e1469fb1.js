@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["skA-IbO_"],{"skA-IbO_":function(e,l,n){"use strict";n.d(l,"__esModule",{value:!0}),n.d(l,"demos",{enumerable:!0,get:function(){return s;}}),n("qXU0aZrI");let s={};}}]);
+//# sourceMappingURL=skA-IbO_-async.e1469fb1.js.map

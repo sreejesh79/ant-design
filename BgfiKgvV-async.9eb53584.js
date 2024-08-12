@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["BgfiKgvV"],{BgfiKgvV:function(e,n,l){"use strict";l.d(n,"__esModule",{value:!0}),l.d(n,"demos",{enumerable:!0,get:function(){return o;}}),l("gkqNLVmn");let o={};}}]);
+//# sourceMappingURL=BgfiKgvV-async.9eb53584.js.map

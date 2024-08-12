@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["Ucpr2FXN"],{Ucpr2FXN:function(e,n,l){"use strict";l.d(n,"__esModule",{value:!0}),l.d(n,"demos",{enumerable:!0,get:function(){return o;}}),l("3nyAm2zB");let o={};}}]);
+//# sourceMappingURL=Ucpr2FXN-async.d3c764d6.js.map

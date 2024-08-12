@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["Vk5HgUT2"],{Vk5HgUT2:function(e,l,n){"use strict";n.d(l,"__esModule",{value:!0}),n.d(l,"demos",{enumerable:!0,get:function(){return u;}}),n("P9Hfeu8k");let u={};}}]);
+//# sourceMappingURL=Vk5HgUT2-async.fb4915c2.js.map

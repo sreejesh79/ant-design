@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["Y_NZ_IUF"],{Y_NZ_IUF:function(e,l,n){"use strict";n.d(l,"__esModule",{value:!0}),n.d(l,"default",{enumerable:!0,get:function(){return o;}});var a=n("zFz0_bw4");n("yOjif067");var u=n("HL79G8C-"),o=()=>(0,a.jsx)(u.Skeleton,{});}}]);
+//# sourceMappingURL=Y_NZ_IUF-async.7957cf28.js.map

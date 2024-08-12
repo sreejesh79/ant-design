@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["dvbXY_Qt"],{dvbXY_Qt:function(e,l,a){"use strict";a.d(l,"__esModule",{value:!0}),a.d(l,"default",{enumerable:!0,get:function(){return d;}});var n=a("zFz0_bw4");a("IINV50ld");var t=a("HL79G8C-");let{_InternalRangePanelDoNotUseOrYouWillBeFired:u}=t.DatePicker;var d=()=>(0,n.jsx)(u,{picker:"quarter"});}}]);
+//# sourceMappingURL=dvbXY_Qt-async.5023535e.js.map

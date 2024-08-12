@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["COs-I8YU"],{"COs-I8YU":function(e,l,n){"use strict";n.d(l,"__esModule",{value:!0}),n.d(l,"demos",{enumerable:!0,get:function(){return s;}}),n("50yhk5-3");let s={};}}]);
+//# sourceMappingURL=COs-I8YU-async.623b6b7c.js.map
